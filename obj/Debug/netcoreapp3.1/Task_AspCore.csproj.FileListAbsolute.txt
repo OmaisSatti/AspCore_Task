@@ -1,0 +1,760 @@
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.exe
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.deps.json
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.runtimeconfig.json
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.runtimeconfig.dev.json
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.pdb
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.Views.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.Views.pdb
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.AssemblyInfoInputs.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.AssemblyInfo.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.csproj.CoreCompileInputs.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.MvcApplicationPartsAssemblyInfo.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.MvcApplicationPartsAssemblyInfo.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorAssemblyInfo.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorAssemblyInfo.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Task_AspCore.StaticWebAssets.Manifest.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Task_AspCore.StaticWebAssets.xml
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task_AspCore.styles.css
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.TagHelpers.input.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.TagHelpers.output.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorCoreGenerate.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Developer\DeveloperList.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorTargetAssemblyInfo.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorTargetAssemblyInfo.cs
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.Views.pdb
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.csproj.CopyComplete
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.dll
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.pdb
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.genruntimeconfig.cache
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Developer\Create.cshtml.g.cs
+G:\Workshop\Task_AspCore\bin\Debug\netcoreapp3.1\Views\Properties\launchSettings.json
+G:\Workshop\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.csprojAssemblyReference.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\appsettings.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Views\Properties\launchSettings.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.exe
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.deps.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.runtimeconfig.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.runtimeconfig.dev.json
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.pdb
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.Views.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Task_AspCore.Views.pdb
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.AssemblyInfoInputs.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.AssemblyInfo.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.csproj.CoreCompileInputs.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.MvcApplicationPartsAssemblyInfo.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.MvcApplicationPartsAssemblyInfo.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorAssemblyInfo.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorAssemblyInfo.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Task_AspCore.StaticWebAssets.Manifest.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\staticwebassets\Task_AspCore.StaticWebAssets.xml
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\scopedcss\bundle\Task_AspCore.styles.css
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.TagHelpers.input.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.TagHelpers.output.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorCoreGenerate.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Developer\Create.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Developer\DeveloperList.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorTargetAssemblyInfo.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.RazorTargetAssemblyInfo.cs
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.Views.pdb
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.csproj.CopyComplete
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.dll
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.pdb
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Task_AspCore.genruntimeconfig.cache
+G:\C# Data\Asp.Net C#\Task_AspCore\obj\Debug\netcoreapp3.1\Razor\Views\Developer\Modal.cshtml.g.cs
